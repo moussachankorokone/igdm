@@ -32,8 +32,8 @@
     "nojs": "^0.1.1"
   },
   "devDependencies": {
-    "electron": "2.0.12",
-    "electron-builder": "^20.40.2",
+    "electron": "22.3.25",
+    "electron-builder": "^24.12.0",
     "electron-builder-lib": "20.23.1",
     "electron-builder-squirrel-windows": "20.29.0",
     "gulp": "^4.0.0",
