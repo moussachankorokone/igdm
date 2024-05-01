@@ -28,17 +28,17 @@
     "electron-updater": "^4.0.0",
     "fb": "^2.0.0",
     "instagram-private-api": "github:ifedapoolarewaju/instagram-private-api#14832f88001746d994c2ef4604cd29a1b858a6f5",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^8.0.1",
     "nojs": "^0.1.1"
   },
   "devDependencies": {
-    "electron": "2.0.12",
-    "electron-builder": "^20.40.2",
+    "electron": "22.3.25",
+    "electron-builder": "^24.13.3",
     "electron-builder-lib": "20.23.1",
     "electron-builder-squirrel-windows": "20.29.0",
     "gulp": "^4.0.0",
     "gulp-htmlmin": "^4.0.0",
-    "gulp-pug": "^3.3.0",
+    "gulp-pug": "^5.0.0",
     "jstransformer-markdown-it": "^2.0.0"
   },
   "optionalDependencies": {
